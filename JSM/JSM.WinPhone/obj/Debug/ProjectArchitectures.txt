@@ -1,0 +1,2 @@
+C:\SeniorProjectDevl\JSM\JSM\JSM.WinPhone\JSM.WinPhone.csproj;neutral
+C:\SeniorProjectDevl\JSM\JSM\JSM\JSM.csproj;neutral

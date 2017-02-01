@@ -1,0 +1,4 @@
+JSM.Droid.MainActivity, JSM.Droid;md572a3516e70153b14bdecfcbe08cd2222.MainActivity
+JSM.Droid.MainActivity, JSM.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md572a3516e70153b14bdecfcbe08cd2222.MainActivity
+JSM.Droid.MainActivity;md572a3516e70153b14bdecfcbe08cd2222.MainActivity
+jsm.droid.MainActivity;md572a3516e70153b14bdecfcbe08cd2222.MainActivity

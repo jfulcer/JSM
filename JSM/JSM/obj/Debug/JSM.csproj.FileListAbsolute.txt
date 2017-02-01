@@ -1,0 +1,7 @@
+C:\SeniorProjectDevl\JSM\JSM\JSM\bin\Debug\JSM.dll
+C:\SeniorProjectDevl\JSM\JSM\JSM\bin\Debug\JSM.pdb
+C:\SeniorProjectDevl\JSM\JSM\JSM\obj\Debug\JSM.csprojResolveAssemblyReference.cache
+C:\SeniorProjectDevl\JSM\JSM\JSM\obj\Debug\JSM.dll
+C:\SeniorProjectDevl\JSM\JSM\JSM\obj\Debug\JSM.pdb
+C:\SeniorProjectDevl\JSM\JSM\JSM\obj\Debug\JSM.dll.mdb
+C:\SeniorProjectDevl\JSM\JSM\JSM\bin\Debug\JSM.dll.mdb
