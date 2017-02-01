@@ -6,6 +6,7 @@ namespace JSM
     {
         public MyClass()
         {
+
         }
     }
 }
