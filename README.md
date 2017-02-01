@@ -1,1 +1,2 @@
 # JSM
+JSM Senior Project
